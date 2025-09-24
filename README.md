@@ -15,7 +15,7 @@ The model achieves an ROC-AUC of ~0.84 while being weighted to reduce false nega
 - **Section 4**: Visualisation of feature importance and model performance metrics  
 - **Section 5**: Business insights and conclusions
 
-## Colab Link
+## Google Colab Link
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nV8d742xNV_z_n_O61QrVK3jCjFG8d2A?usp=sharing)
 
 ## Data Source
